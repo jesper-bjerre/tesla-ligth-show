@@ -1,0 +1,7 @@
+fastapi>=0.115.12
+uvicorn[standard]>=0.34.2
+python-multipart>=0.0.20
+pydantic>=2.11.4
+librosa>=0.10.2
+numpy>=2.0
+yt-dlp>=2025.5.6; sys_platform != ""  # optional, only used when ENABLE_YOUTUBE_IMPORT=true

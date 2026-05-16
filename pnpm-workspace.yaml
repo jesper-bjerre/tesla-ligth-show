@@ -1,0 +1,7 @@
+packages:
+  - 'apps/*'
+  - 'packages/*'
+allowedBuilds:
+  - esbuild
+  - sharp
+  - unrs-resolver
