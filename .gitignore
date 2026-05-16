@@ -30,3 +30,7 @@ Thumbs.db
 
 # MP3 files
 *.mp3
+.codex-api.err.log
+.codex-api.log
+.codex-web.err.log
+.codex-web.log
